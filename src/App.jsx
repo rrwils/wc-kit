@@ -3,6 +3,7 @@ import { Canvas, useFrame } from '@react-three/fiber';
 import { OrbitControls, Stage, Html } from '@react-three/drei';
 import * as d3 from 'd3';
 import kitsData from '../data/tournament_kits_data.json';
+import './index.css';
 
 // Isolated component for the floating kit markers and axes labels
 const KitPoints3D = ({ data }) => {
@@ -232,8 +233,7 @@ const KitPoints3D = ({ data }) => {
 
 // Main Canvas Wrapper with Integrated State Filters
 export const App = () => {
-  // Temporary console checker:
-  console.log("Total white kits in data:", kitsData.filter(t => t.colors.primary.toLowerCase() === '#ffffff').length);
+
   // 1. Establish visual target filtering hook states ('all', 'home', 'away')
   const [activeFilter, setActiveFilter] = useState('all');
 
@@ -244,17 +244,17 @@ export const App = () => {
   }, [activeFilter]);
 
   return (
-    <div style={{ position: 'absolute', top: 0, left: 0, width: '100vw', height: '100vh', background: 'rgba(160, 159, 159, 0.77)', fontFamily: 'Helvetica', overflow: 'hidden' }}>
+    <div className="app-container">
       
-      {/* Main Metadata Display */}
+      {/* Overlay Description (Top Left) */}
       <div style={{ position: 'absolute', top: 20, left: 20, color: '#fff', zIndex: 10, pointerEvents: 'none' }}>
-        <h1 style={{ margin: '0 0 5px 0', fontSize: '17px', fontWeight: 'bold', color: '#000'}}>2026 WC Football Kit Base Colors</h1>
+        <h1 style={{ margin: '0 0 5px 0', fontSize: '17px', fontWeight: 'bold', color: '#000' }}>2026 WC Football Kit Base Colors</h1>
         <p style={{ margin: 0, color: '#ffffff', fontSize: '13px', color: '#000' }}>
-        ↻ Rotation = Hue &nbsp;|&nbsp; ↕ Height = Lightness &nbsp;|&nbsp; ↔ Center Distance = Saturation <span style={{ fontSize: '9px'}}>(further from the center = higher saturation)</span>
+          ↻ Rotation = Hue &nbsp;|&nbsp; ↕ Height = Lightness &nbsp;|&nbsp; ↔ Center Distance = Saturation <span style={{ fontSize: '9px'}}>(further from the center = higher saturation)</span>
         </p>
       </div>
 
-      {/* 3. Interactive Filtering Control Panel Dashboard Console */}
+      {/*Interactive Filtering Control Panel Dashboard Console */}
       <div style={{ 
         position: 'absolute', 
         top: 90, 
@@ -294,21 +294,13 @@ export const App = () => {
         })}
       </div>
 
-      <div style={{
-        position: 'absolute',
-        bottom: 20,
-        left: 20,
-        right: 20,
-        zIndex: 10,
-        pointerEvents: 'none',
-        color: '#E8E8E8',
-        fontSize: '11px',
-        lineHeight: '1.4',
-      }}>
-        <p style={{ margin: 0 }}><strong>Methodology note:</strong> Colors are approximate and mapped according to their HSL values. Third kits are not included. Data was gathered by using the eyedropper tool in Illustrator on official high-res supplier images, then processed with a Python script to translate the hex codes into HSL coordinates. The 3D visual was built with AI assistance using Three.js, React Three Fiber and D3.</p>
-        <p style={{ margin: 0 }}><strong>Rachel Wilson</strong></p>
-
+      <div className="responsive-footer">
+        <p className="footer-methodology">
+          <strong>Methodology note:</strong> Colors are approximate and mapped according to their HSL values. Third kits are not included. Many kits feature complex multi-coloured patterns or gradient effects, but for simplicity and visual clarity, this visualisation strictly maps the primary base color of each kit. Data was gathered by using the eyedropper tool on official high-res supplier images, then translated into HSL coordinates with a script. The 3D visual was built with AI assistance using Three.js, React Three Fiber and D3.
+        </p>
+        <p><strong>Rachel Wilson</strong></p>
       </div>
+     
 
       <Canvas camera={{ position: [0, 4, 9], fov: 50 }}>
         <ambientLight intensity={0.7} />

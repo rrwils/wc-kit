@@ -1,0 +1,1442 @@
+[
+  {
+    "id": "algeria-away",
+    "country": "Algeria",
+    "kit": "away",
+    "metrics": {
+      "hue": 0.4749,
+      "saturation": 1.0,
+      "lightness": 0.351
+    },
+    "colors": {
+      "primary": "#00B398",
+      "secondary": "#035A48",
+      "tertiary": "#EE3334"
+    }
+  },
+  {
+    "id": "algeria-home",
+    "country": "Algeria",
+    "kit": "home",
+    "metrics": {
+      "hue": 0.0,
+      "saturation": 0.0,
+      "lightness": 1.0
+    },
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#BDA594",
+      "tertiary": "#0A8C7B"
+    }
+  },
+  {
+    "id": "argentina-away",
+    "country": "Argentina",
+    "kit": "away",
+    "metrics": {
+      "hue": 0.0,
+      "saturation": 0.0,
+      "lightness": 0.0
+    },
+    "colors": {
+      "primary": "#000000",
+      "secondary": "#0D4D9E",
+      "tertiary": "#5FC3EF"
+    }
+  },
+  {
+    "id": "argentina-home",
+    "country": "Argentina",
+    "kit": "home",
+    "metrics": {
+      "hue": 0.0,
+      "saturation": 0.0,
+      "lightness": 1.0
+    },
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#B1D5E9",
+      "tertiary": "#5C8ABE"
+    }
+  },
+  {
+    "id": "australia-home",
+    "country": "Australia",
+    "kit": "home",
+    "metrics": {
+      "hue": 0.1179,
+      "saturation": 1.0,
+      "lightness": 0.6314
+    },
+    "colors": {
+      "primary": "#FFC843",
+      "secondary": "#045F55",
+      "tertiary": null
+    }
+  },
+  {
+    "id": "australia-away",
+    "country": "Australia",
+    "kit": "away",
+    "metrics": {
+      "hue": 0.5146,
+      "saturation": 0.7703,
+      "lightness": 0.2902
+    },
+    "colors": {
+      "primary": "#117983",
+      "secondary": "#E77668",
+      "tertiary": "#FFFFFF"
+    }
+  },
+  {
+    "id": "austria-away",
+    "country": "Austria",
+    "kit": "away",
+    "metrics": {
+      "hue": 0.0,
+      "saturation": 0.0,
+      "lightness": 1.0
+    },
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#C3E4D5",
+      "tertiary": "#E4C38B"
+    }
+  },
+  {
+    "id": "austria-home",
+    "country": "Austria",
+    "kit": "home",
+    "metrics": {
+      "hue": 0.9991,
+      "saturation": 0.8059,
+      "lightness": 0.5353
+    },
+    "colors": {
+      "primary": "#E8292A",
+      "secondary": "#25201F",
+      "tertiary": "#FFFFFF"
+    }
+  },
+  {
+    "id": "belgium-away",
+    "country": "Belgium",
+    "kit": "away",
+    "metrics": {
+      "hue": 0.5598,
+      "saturation": 0.8125,
+      "lightness": 0.8118
+    },
+    "colors": {
+      "primary": "#A8DAF6",
+      "secondary": "#F8BCD2",
+      "tertiary": "#0E0B0D"
+    }
+  },
+  {
+    "id": "belgium-home",
+    "country": "Belgium",
+    "kit": "home",
+    "metrics": {
+      "hue": 0.9823,
+      "saturation": 0.8589,
+      "lightness": 0.5275
+    },
+    "colors": {
+      "primary": "#EE1F35",
+      "secondary": "#B31F28",
+      "tertiary": "#FBB151"
+    }
+  },
+  {
+    "id": "bosnia-and-herzegovina-away",
+    "country": "Bosnia And Herzegovina",
+    "kit": "away",
+    "metrics": {
+      "hue": 0.0,
+      "saturation": 0.0,
+      "lightness": 1.0
+    },
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#223167",
+      "tertiary": "#FEE65A"
+    }
+  },
+  {
+    "id": "bosnia-and-herzegovina-home",
+    "country": "Bosnia And Herzegovina",
+    "kit": "home",
+    "metrics": {
+      "hue": 0.6304,
+      "saturation": 0.5036,
+      "lightness": 0.2686
+    },
+    "colors": {
+      "primary": "#223167",
+      "secondary": "#FEE65A",
+      "tertiary": "#FFFFFF"
+    }
+  },
+  {
+    "id": "brazil-away",
+    "country": "Brazil",
+    "kit": "away",
+    "metrics": {
+      "hue": 0.5714,
+      "saturation": 0.35,
+      "lightness": 0.1569
+    },
+    "colors": {
+      "primary": "#1A2A36",
+      "secondary": "#1F2D5D",
+      "tertiary": "#ECD760"
+    }
+  },
+  {
+    "id": "brazil-home",
+    "country": "Brazil",
+    "kit": "home",
+    "metrics": {
+      "hue": 0.1444,
+      "saturation": 0.7895,
+      "lightness": 0.6647
+    },
+    "colors": {
+      "primary": "#EDDB66",
+      "secondary": "#094B59",
+      "tertiary": null
+    }
+  },
+  {
+    "id": "canada-away",
+    "country": "Canada",
+    "kit": "away",
+    "metrics": {
+      "hue": 0.0,
+      "saturation": 0.0,
+      "lightness": 0.0
+    },
+    "colors": {
+      "primary": "#000000",
+      "secondary": "#FFFFFF",
+      "tertiary": "#ED2224"
+    }
+  },
+  {
+    "id": "canada-home",
+    "country": "Canada",
+    "kit": "home",
+    "metrics": {
+      "hue": 0.9756,
+      "saturation": 0.761,
+      "lightness": 0.4922
+    },
+    "colors": {
+      "primary": "#DD1E3A",
+      "secondary": "#84161D",
+      "tertiary": "#FFFFFF"
+    }
+  },
+  {
+    "id": "cape-verde-away",
+    "country": "Cape Verde",
+    "kit": "away",
+    "metrics": {
+      "hue": 0.6232,
+      "saturation": 0.451,
+      "lightness": 0.9
+    },
+    "colors": {
+      "primary": "#DAE0F1",
+      "secondary": "#FFFFFF",
+      "tertiary": "#2B56A7"
+    }
+  },
+  {
+    "id": "cape-verde-home",
+    "country": "Cape Verde",
+    "kit": "home",
+    "metrics": {
+      "hue": 0.6524,
+      "saturation": 0.3608,
+      "lightness": 0.1902
+    },
+    "colors": {
+      "primary": "#1F2242",
+      "secondary": "#2B56A7",
+      "tertiary": "#D32629"
+    }
+  },
+  {
+    "id": "colombia-away",
+    "country": "Colombia",
+    "kit": "away",
+    "metrics": {
+      "hue": 0.5219,
+      "saturation": 1.0,
+      "lightness": 0.4176
+    },
+    "colors": {
+      "primary": "#00B9D5",
+      "secondary": "#19325B",
+      "tertiary": "#D8E379"
+    }
+  },
+  {
+    "id": "colombia-home",
+    "country": "Colombia",
+    "kit": "home",
+    "metrics": {
+      "hue": 0.143,
+      "saturation": 0.925,
+      "lightness": 0.6863
+    },
+    "colors": {
+      "primary": "#F9E465",
+      "secondary": "#F8D849",
+      "tertiary": "#3273BA"
+    }
+  },
+  {
+    "id": "dr-congo-away",
+    "country": "Dr Congo",
+    "kit": "away",
+    "metrics": {
+      "hue": 0.0,
+      "saturation": 0.0,
+      "lightness": 1.0
+    },
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#5BA7D9",
+      "tertiary": null
+    }
+  },
+  {
+    "id": "dr-congo-home",
+    "country": "Dr Congo",
+    "kit": "home",
+    "metrics": {
+      "hue": 0.5685,
+      "saturation": 0.6596,
+      "lightness": 0.6314
+    },
+    "colors": {
+      "primary": "#63ACDF",
+      "secondary": "#FFFFFF",
+      "tertiary": "#C02E27"
+    }
+  },
+  {
+    "id": "croatia-away",
+    "country": "Croatia",
+    "kit": "away",
+    "metrics": {
+      "hue": 0.5812,
+      "saturation": 0.6959,
+      "lightness": 0.3353
+    },
+    "colors": {
+      "primary": "#1A5791",
+      "secondary": "#1D2051",
+      "tertiary": "#CB2027"
+    }
+  },
+  {
+    "id": "croatia-home",
+    "country": "Croatia",
+    "kit": "home",
+    "metrics": {
+      "hue": 0.0,
+      "saturation": 0.0,
+      "lightness": 1.0
+    },
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#DC1E38",
+      "tertiary": "#3B66B0"
+    }
+  },
+  {
+    "id": "curacao-away",
+    "country": "Curacao",
+    "kit": "away",
+    "metrics": {
+      "hue": 0.1316,
+      "saturation": 0.7308,
+      "lightness": 0.7961
+    },
+    "colors": {
+      "primary": "#F1E1A5",
+      "secondary": "#1B4792",
+      "tertiary": "#CC3260"
+    }
+  },
+  {
+    "id": "curacao-home",
+    "country": "Curacao",
+    "kit": "home",
+    "metrics": {
+      "hue": 0.6302,
+      "saturation": 0.4751,
+      "lightness": 0.4333
+    },
+    "colors": {
+      "primary": "#3A51A3",
+      "secondary": "#16B7E5",
+      "tertiary": "#E5D35D"
+    }
+  },
+  {
+    "id": "czechia-away",
+    "country": "Czechia",
+    "kit": "away",
+    "metrics": {
+      "hue": 0.0,
+      "saturation": 0.0,
+      "lightness": 1.0
+    },
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#AFB6B9",
+      "tertiary": "#B68C4B"
+    }
+  },
+  {
+    "id": "czechia-home",
+    "country": "Czechia",
+    "kit": "home",
+    "metrics": {
+      "hue": 0.9836,
+      "saturation": 0.6961,
+      "lightness": 0.4
+    },
+    "colors": {
+      "primary": "#AD1F2D",
+      "secondary": "#2B2738",
+      "tertiary": null
+    }
+  },
+  {
+    "id": "ecuador-away",
+    "country": "Ecuador",
+    "kit": "away",
+    "metrics": {
+      "hue": 0.6724,
+      "saturation": 0.2661,
+      "lightness": 0.2137
+    },
+    "colors": {
+      "primary": "#292845",
+      "secondary": "#B5816D",
+      "tertiary": null
+    }
+  },
+  {
+    "id": "ecuador-home",
+    "country": "Ecuador",
+    "kit": "home",
+    "metrics": {
+      "hue": 0.1363,
+      "saturation": 0.9796,
+      "lightness": 0.6157
+    },
+    "colors": {
+      "primary": "#FDDA3D",
+      "secondary": "#312D46",
+      "tertiary": "#B42029"
+    }
+  },
+  {
+    "id": "egypt-away",
+    "country": "Egypt",
+    "kit": "away",
+    "metrics": {
+      "hue": 0.0,
+      "saturation": 0.0,
+      "lightness": 1.0
+    },
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#D9DBE1",
+      "tertiary": "#201E1D"
+    }
+  },
+  {
+    "id": "egypt-home",
+    "country": "Egypt",
+    "kit": "home",
+    "metrics": {
+      "hue": 0.9914,
+      "saturation": 0.7322,
+      "lightness": 0.4686
+    },
+    "colors": {
+      "primary": "#CF2029",
+      "secondary": "#993D3E",
+      "tertiary": "#000000"
+    }
+  },
+  {
+    "id": "england-away",
+    "country": "England",
+    "kit": "away",
+    "metrics": {
+      "hue": 0.9884,
+      "saturation": 0.7178,
+      "lightness": 0.4725
+    },
+    "colors": {
+      "primary": "#CF222E",
+      "secondary": "#2B2A33",
+      "tertiary": "#FFFFFF"
+    }
+  },
+  {
+    "id": "england-home",
+    "country": "England",
+    "kit": "home",
+    "metrics": {
+      "hue": 0.0,
+      "saturation": 0.0,
+      "lightness": 1.0
+    },
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#2B2A33",
+      "tertiary": "#CF222E"
+    }
+  },
+  {
+    "id": "france-away",
+    "country": "France",
+    "kit": "away",
+    "metrics": {
+      "hue": 0.4333,
+      "saturation": 0.2747,
+      "lightness": 0.8216
+    },
+    "colors": {
+      "primary": "#C5DED4",
+      "secondary": "#D96B27",
+      "tertiary": "#B86B35"
+    }
+  },
+  {
+    "id": "france-home",
+    "country": "France",
+    "kit": "home",
+    "metrics": {
+      "hue": 0.6417,
+      "saturation": 0.303,
+      "lightness": 0.1294
+    },
+    "colors": {
+      "primary": "#171A2B",
+      "secondary": "#4F78BB",
+      "tertiary": "#FFFFFF"
+    }
+  },
+  {
+    "id": "germany-away",
+    "country": "Germany",
+    "kit": "away",
+    "metrics": {
+      "hue": 0.6173,
+      "saturation": 0.3253,
+      "lightness": 0.1627
+    },
+    "colors": {
+      "primary": "#1C2437",
+      "secondary": "#02ADA5",
+      "tertiary": "#FFFFFF"
+    }
+  },
+  {
+    "id": "germany-home",
+    "country": "Germany",
+    "kit": "home",
+    "metrics": {
+      "hue": 0.0,
+      "saturation": 0.0,
+      "lightness": 1.0
+    },
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#F19120",
+      "tertiary": "#BE2126"
+    }
+  },
+  {
+    "id": "ghana-away",
+    "country": "Ghana",
+    "kit": "away",
+    "metrics": {
+      "hue": 0.1194,
+      "saturation": 0.8933,
+      "lightness": 0.7059
+    },
+    "colors": {
+      "primary": "#F7D171",
+      "secondary": "#ECAD38",
+      "tertiary": "#016C63"
+    }
+  },
+  {
+    "id": "ghana-home",
+    "country": "Ghana",
+    "kit": "home",
+    "metrics": {
+      "hue": 0.0,
+      "saturation": 0.0,
+      "lightness": 1.0
+    },
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#0F0809",
+      "tertiary": "#ECBF72"
+    }
+  },
+  {
+    "id": "haiti-away",
+    "country": "Haiti",
+    "kit": "away",
+    "metrics": {
+      "hue": 0.0,
+      "saturation": 0.0,
+      "lightness": 1.0
+    },
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#C5CDCE",
+      "tertiary": "#AA2C24"
+    }
+  },
+  {
+    "id": "haiti-home",
+    "country": "Haiti",
+    "kit": "home",
+    "metrics": {
+      "hue": 0.6414,
+      "saturation": 0.547,
+      "lightness": 0.3549
+    },
+    "colors": {
+      "primary": "#29388C",
+      "secondary": "#AA2C24",
+      "tertiary": "#FFFFFF"
+    }
+  },
+  {
+    "id": "iran-away",
+    "country": "Iran",
+    "kit": "away",
+    "metrics": {
+      "hue": 0.9914,
+      "saturation": 0.7322,
+      "lightness": 0.4686
+    },
+    "colors": {
+      "primary": "#CF2029",
+      "secondary": "#FFFFFF",
+      "tertiary": "#206545"
+    }
+  },
+  {
+    "id": "iran-home",
+    "country": "Iran",
+    "kit": "home",
+    "metrics": {
+      "hue": 0.0,
+      "saturation": 0.0,
+      "lightness": 1.0
+    },
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#206545",
+      "tertiary": "#A61E31"
+    }
+  },
+  {
+    "id": "iraq-away",
+    "country": "Iraq",
+    "kit": "away",
+    "metrics": {
+      "hue": 0.4387,
+      "saturation": 0.6541,
+      "lightness": 0.2608
+    },
+    "colors": {
+      "primary": "#176E4E",
+      "secondary": "#21805A",
+      "tertiary": "#19171F"
+    }
+  },
+  {
+    "id": "iraq-home",
+    "country": "Iraq",
+    "kit": "home",
+    "metrics": {
+      "hue": 0.0,
+      "saturation": 0.0,
+      "lightness": 1.0
+    },
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#E0E0DF",
+      "tertiary": "#19171F"
+    }
+  },
+  {
+    "id": "ivory-coast-away",
+    "country": "Ivory Coast",
+    "kit": "away",
+    "metrics": {
+      "hue": 0.0,
+      "saturation": 0.0,
+      "lightness": 1.0
+    },
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#FDCBA1",
+      "tertiary": "#C1DAC8"
+    }
+  },
+  {
+    "id": "ivory-coast-home",
+    "country": "Ivory Coast",
+    "kit": "home",
+    "metrics": {
+      "hue": 0.0697,
+      "saturation": 0.9043,
+      "lightness": 0.549
+    },
+    "colors": {
+      "primary": "#F47B24",
+      "secondary": "#029770",
+      "tertiary": "#FFFFFF"
+    }
+  },
+  {
+    "id": "japan-away",
+    "country": "Japan",
+    "kit": "away",
+    "metrics": {
+      "hue": 0.1429,
+      "saturation": 0.2692,
+      "lightness": 0.898
+    },
+    "colors": {
+      "primary": "#ECEADE",
+      "secondary": "#252323",
+      "tertiary": null
+    }
+  },
+  {
+    "id": "japan-home",
+    "country": "Japan",
+    "kit": "home",
+    "metrics": {
+      "hue": 0.6374,
+      "saturation": 0.456,
+      "lightness": 0.2451
+    },
+    "colors": {
+      "primary": "#222C5B",
+      "secondary": "#7AAFCA",
+      "tertiary": "#E8302B"
+    }
+  },
+  {
+    "id": "jordan-away",
+    "country": "Jordan",
+    "kit": "away",
+    "metrics": {
+      "hue": 0.9929,
+      "saturation": 0.7009,
+      "lightness": 0.4588
+    },
+    "colors": {
+      "primary": "#C7232A",
+      "secondary": "#FFFFFF",
+      "tertiary": null
+    }
+  },
+  {
+    "id": "jordan-home",
+    "country": "Jordan",
+    "kit": "home",
+    "metrics": {
+      "hue": 0.0,
+      "saturation": 0.0,
+      "lightness": 1.0
+    },
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#AC282B",
+      "tertiary": null
+    }
+  },
+  {
+    "id": "korea-away",
+    "country": "Korea",
+    "kit": "away",
+    "metrics": {
+      "hue": 0.7727,
+      "saturation": 0.3056,
+      "lightness": 0.8588
+    },
+    "colors": {
+      "primary": "#DED0E6",
+      "secondary": "#8066AC",
+      "tertiary": "#3D3C8F"
+    }
+  },
+  {
+    "id": "korea-home",
+    "country": "Korea",
+    "kit": "home",
+    "metrics": {
+      "hue": 0.9832,
+      "saturation": 0.7866,
+      "lightness": 0.5039
+    },
+    "colors": {
+      "primary": "#E41D31",
+      "secondary": "#B11F24",
+      "tertiary": "#0F0809"
+    }
+  },
+  {
+    "id": "mexico-away",
+    "country": "Mexico",
+    "kit": "away",
+    "metrics": {
+      "hue": 0.0,
+      "saturation": 0.0,
+      "lightness": 1.0
+    },
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#DF1F26",
+      "tertiary": "#051E1B"
+    }
+  },
+  {
+    "id": "mexico-home",
+    "country": "Mexico",
+    "kit": "home",
+    "metrics": {
+      "hue": 0.4748,
+      "saturation": 0.972,
+      "lightness": 0.2804
+    },
+    "colors": {
+      "primary": "#028D78",
+      "secondary": "#01584E",
+      "tertiary": "#FFFFFF"
+    }
+  },
+  {
+    "id": "morocco-away",
+    "country": "Morocco",
+    "kit": "away",
+    "metrics": {
+      "hue": 0.0,
+      "saturation": 0.0,
+      "lightness": 1.0
+    },
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#E3B559",
+      "tertiary": "#C62742"
+    }
+  },
+  {
+    "id": "morocco-home",
+    "country": "Morocco",
+    "kit": "home",
+    "metrics": {
+      "hue": 0.9779,
+      "saturation": 0.7217,
+      "lightness": 0.451
+    },
+    "colors": {
+      "primary": "#C62036",
+      "secondary": "#06814E",
+      "tertiary": "#D1BD80"
+    }
+  },
+  {
+    "id": "netherlands-away",
+    "country": "Netherlands",
+    "kit": "away",
+    "metrics": {
+      "hue": 0.0,
+      "saturation": 0.0,
+      "lightness": 1.0
+    },
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#F04942",
+      "tertiary": "#100F0B"
+    }
+  },
+  {
+    "id": "netherlands-home",
+    "country": "Netherlands",
+    "kit": "home",
+    "metrics": {
+      "hue": 0.0253,
+      "saturation": 0.8593,
+      "lightness": 0.6098
+    },
+    "colors": {
+      "primary": "#F16046",
+      "secondary": "#1D0E0C",
+      "tertiary": null
+    }
+  },
+  {
+    "id": "norway-away",
+    "country": "Norway",
+    "kit": "away",
+    "metrics": {
+      "hue": 0.0,
+      "saturation": 0.0,
+      "lightness": 0.0
+    },
+    "colors": {
+      "primary": "#000000",
+      "secondary": null,
+      "tertiary": null
+    }
+  },
+  {
+    "id": "norway-home",
+    "country": "Norway",
+    "kit": "home",
+    "metrics": {
+      "hue": 0.9907,
+      "saturation": 0.7857,
+      "lightness": 0.5059
+    },
+    "colors": {
+      "primary": "#E41E29",
+      "secondary": "#2D3A5C",
+      "tertiary": "#FFFFFF"
+    }
+  },
+  {
+    "id": "new-zealand-away",
+    "country": "New Zealand",
+    "kit": "away",
+    "metrics": {
+      "hue": 0.0,
+      "saturation": 0.0,
+      "lightness": 1.0
+    },
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#D7DAE3",
+      "tertiary": "#201E1D"
+    }
+  },
+  {
+    "id": "new-zealand-home",
+    "country": "New Zealand",
+    "kit": "home",
+    "metrics": {
+      "hue": 0.0,
+      "saturation": 0.0,
+      "lightness": 0.0
+    },
+    "colors": {
+      "primary": "#000000",
+      "secondary": "#3A373A",
+      "tertiary": "#FFFFFF"
+    }
+  },
+  {
+    "id": "panama-away",
+    "country": "Panama",
+    "kit": "away",
+    "metrics": {
+      "hue": 0.0,
+      "saturation": 0.0,
+      "lightness": 1.0
+    },
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#EA9848",
+      "tertiary": "#222635"
+    }
+  },
+  {
+    "id": "panama-home",
+    "country": "Panama",
+    "kit": "home",
+    "metrics": {
+      "hue": 0.9928,
+      "saturation": 0.8531,
+      "lightness": 0.5196
+    },
+    "colors": {
+      "primary": "#ED1C25",
+      "secondary": "#FFFFFF",
+      "tertiary": "#222635"
+    }
+  },
+  {
+    "id": "paraguay-away",
+    "country": "Paraguay",
+    "kit": "away",
+    "metrics": {
+      "hue": 0.625,
+      "saturation": 0.1667,
+      "lightness": 0.2353
+    },
+    "colors": {
+      "primary": "#323746",
+      "secondary": "#1DA9CB",
+      "tertiary": "#201E1D"
+    }
+  },
+  {
+    "id": "paraguay-home",
+    "country": "Paraguay",
+    "kit": "home",
+    "metrics": {
+      "hue": 0.0,
+      "saturation": 0.0,
+      "lightness": 1.0
+    },
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#F05057",
+      "tertiary": "#268ACB"
+    }
+  },
+  {
+    "id": "portugal-away",
+    "country": "Portugal",
+    "kit": "away",
+    "metrics": {
+      "hue": 0.4621,
+      "saturation": 0.2821,
+      "lightness": 0.8471
+    },
+    "colors": {
+      "primary": "#CDE3DE",
+      "secondary": "#6EC2B7",
+      "tertiary": "#FFFFFF"
+    }
+  },
+  {
+    "id": "portugal-home",
+    "country": "Portugal",
+    "kit": "home",
+    "metrics": {
+      "hue": 0.978,
+      "saturation": 0.6667,
+      "lightness": 0.4235
+    },
+    "colors": {
+      "primary": "#B42437",
+      "secondary": "#007C7D",
+      "tertiary": null
+    }
+  },
+  {
+    "id": "qatar-away",
+    "country": "Qatar",
+    "kit": "away",
+    "metrics": {
+      "hue": 0.0,
+      "saturation": 0.0,
+      "lightness": 1.0
+    },
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#80393F",
+      "tertiary": null
+    }
+  },
+  {
+    "id": "qatar-home",
+    "country": "Qatar",
+    "kit": "home",
+    "metrics": {
+      "hue": 0.9899,
+      "saturation": 0.4975,
+      "lightness": 0.3902
+    },
+    "colors": {
+      "primary": "#953238",
+      "secondary": "#5A2128",
+      "tertiary": "#FFFFFF"
+    }
+  },
+  {
+    "id": "saudi-arabia-away",
+    "country": "Saudi Arabia",
+    "kit": "away",
+    "metrics": {
+      "hue": 0.0,
+      "saturation": 0.0,
+      "lightness": 1.0
+    },
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#C1A76E",
+      "tertiary": "#194D53"
+    }
+  },
+  {
+    "id": "saudi-arabia-home",
+    "country": "Saudi Arabia",
+    "kit": "home",
+    "metrics": {
+      "hue": 0.5,
+      "saturation": 0.3827,
+      "lightness": 0.1588
+    },
+    "colors": {
+      "primary": "#193838",
+      "secondary": "#215754",
+      "tertiary": "#D0BD9C"
+    }
+  },
+  {
+    "id": "scotland-away",
+    "country": "Scotland",
+    "kit": "away",
+    "metrics": {
+      "hue": 0.0062,
+      "saturation": 0.5583,
+      "lightness": 0.5294
+    },
+    "colors": {
+      "primary": "#CA4944",
+      "secondary": "#57447E",
+      "tertiary": "#FFFFFF"
+    }
+  },
+  {
+    "id": "scotland-home",
+    "country": "Scotland",
+    "kit": "home",
+    "metrics": {
+      "hue": 0.6316,
+      "saturation": 0.38,
+      "lightness": 0.1961
+    },
+    "colors": {
+      "primary": "#1F2745",
+      "secondary": "#283151",
+      "tertiary": "#FFFFFF"
+    }
+  },
+  {
+    "id": "senegal-away",
+    "country": "Senegal",
+    "kit": "away",
+    "metrics": {
+      "hue": 0.4712,
+      "saturation": 1.0,
+      "lightness": 0.2157
+    },
+    "colors": {
+      "primary": "#006E5B",
+      "secondary": "#DE1F29",
+      "tertiary": "#F0CF29"
+    }
+  },
+  {
+    "id": "senegal-home",
+    "country": "Senegal",
+    "kit": "home",
+    "metrics": {
+      "hue": 0.0,
+      "saturation": 0.0,
+      "lightness": 1.0
+    },
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#006C61",
+      "tertiary": "#F4CB55"
+    }
+  },
+  {
+    "id": "southafrica-away",
+    "country": "Southafrica",
+    "kit": "away",
+    "metrics": {
+      "hue": 0.4771,
+      "saturation": 0.6349,
+      "lightness": 0.2471
+    },
+    "colors": {
+      "primary": "#17675C",
+      "secondary": "#1FB599",
+      "tertiary": "#DBBE81"
+    }
+  },
+  {
+    "id": "southafrica-home",
+    "country": "Southafrica",
+    "kit": "home",
+    "metrics": {
+      "hue": 0.145,
+      "saturation": 0.8588,
+      "lightness": 0.6667
+    },
+    "colors": {
+      "primary": "#F3E061",
+      "secondary": "#FBCD56",
+      "tertiary": "#1C9468"
+    }
+  },
+  {
+    "id": "spain-away",
+    "country": "Spain",
+    "kit": "away",
+    "metrics": {
+      "hue": 0.197,
+      "saturation": 0.1642,
+      "lightness": 0.8686
+    },
+    "colors": {
+      "primary": "#E1E3D8",
+      "secondary": "#6D0F20",
+      "tertiary": "#D2B250"
+    }
+  },
+  {
+    "id": "spain-home",
+    "country": "Spain",
+    "kit": "home",
+    "metrics": {
+      "hue": 0.9963,
+      "saturation": 0.8404,
+      "lightness": 0.5824
+    },
+    "colors": {
+      "primary": "#EE3B3F",
+      "secondary": "#232955",
+      "tertiary": "#FDC01A"
+    }
+  },
+  {
+    "id": "sweden-away",
+    "country": "Sweden",
+    "kit": "away",
+    "metrics": {
+      "hue": 0.6005,
+      "saturation": 0.5833,
+      "lightness": 0.4235
+    },
+    "colors": {
+      "primary": "#2D5FAB",
+      "secondary": "#233C79",
+      "tertiary": "#4384C5"
+    }
+  },
+  {
+    "id": "sweden-home",
+    "country": "Sweden",
+    "kit": "home",
+    "metrics": {
+      "hue": 0.1421,
+      "saturation": 0.9209,
+      "lightness": 0.6529
+    },
+    "colors": {
+      "primary": "#F8E055",
+      "secondary": "#243D83",
+      "tertiary": "#2D70B8"
+    }
+  },
+  {
+    "id": "switzerland-away",
+    "country": "Switzerland",
+    "kit": "away",
+    "metrics": {
+      "hue": 0.4365,
+      "saturation": 0.3043,
+      "lightness": 0.8647
+    },
+    "colors": {
+      "primary": "#D2E7DF",
+      "secondary": "#A2CE5B",
+      "tertiary": "#43546C"
+    }
+  },
+  {
+    "id": "switzerland-home",
+    "country": "Switzerland",
+    "kit": "home",
+    "metrics": {
+      "hue": 0.9935,
+      "saturation": 0.7366,
+      "lightness": 0.4765
+    },
+    "colors": {
+      "primary": "#D32027",
+      "secondary": "#FFFFFF",
+      "tertiary": null
+    }
+  },
+  {
+    "id": "tunisia-away",
+    "country": "Tunisia",
+    "kit": "away",
+    "metrics": {
+      "hue": 0.9897,
+      "saturation": 0.7355,
+      "lightness": 0.4745
+    },
+    "colors": {
+      "primary": "#D2202B",
+      "secondary": "#9F1D29",
+      "tertiary": "#FFFFFF"
+    }
+  },
+  {
+    "id": "tunisia-home",
+    "country": "Tunisia",
+    "kit": "home",
+    "metrics": {
+      "hue": 0.0,
+      "saturation": 0.0,
+      "lightness": 1.0
+    },
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#E1E2E1",
+      "tertiary": "#C82032"
+    }
+  },
+  {
+    "id": "turkey-away",
+    "country": "Turkey",
+    "kit": "away",
+    "metrics": {
+      "hue": 0.0,
+      "saturation": 0.0,
+      "lightness": 1.0
+    },
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#A21C34",
+      "tertiary": "#D91E37"
+    }
+  },
+  {
+    "id": "turkey-home",
+    "country": "Turkey",
+    "kit": "home",
+    "metrics": {
+      "hue": 0.9701,
+      "saturation": 0.7053,
+      "lightness": 0.3725
+    },
+    "colors": {
+      "primary": "#A21C34",
+      "secondary": "#D91E37",
+      "tertiary": "#FFFFFF"
+    }
+  },
+  {
+    "id": "uruguay-away",
+    "country": "Uruguay",
+    "kit": "away",
+    "metrics": {
+      "hue": 0.6092,
+      "saturation": 0.3766,
+      "lightness": 0.151
+    },
+    "colors": {
+      "primary": "#182235",
+      "secondary": "#325BA9",
+      "tertiary": "#C6A2A9"
+    }
+  },
+  {
+    "id": "uruguay-home",
+    "country": "Uruguay",
+    "kit": "home",
+    "metrics": {
+      "hue": 0.5856,
+      "saturation": 0.5068,
+      "lightness": 0.8569
+    },
+    "colors": {
+      "primary": "#C8DAED",
+      "secondary": "#FFFFFF",
+      "tertiary": "#0F0809"
+    }
+  },
+  {
+    "id": "united-states-away",
+    "country": "United States",
+    "kit": "away",
+    "metrics": {
+      "hue": 0.6212,
+      "saturation": 0.3929,
+      "lightness": 0.1098
+    },
+    "colors": {
+      "primary": "#111727",
+      "secondary": "#EE2424",
+      "tertiary": "#FFFFFF"
+    }
+  },
+  {
+    "id": "united-states-home",
+    "country": "United States",
+    "kit": "home",
+    "metrics": {
+      "hue": 0.0,
+      "saturation": 0.0,
+      "lightness": 1.0
+    },
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#EE343C",
+      "tertiary": "#212E46"
+    }
+  },
+  {
+    "id": "uzbekistan-away",
+    "country": "Uzbekistan",
+    "kit": "away",
+    "metrics": {
+      "hue": 0.6354,
+      "saturation": 0.5517,
+      "lightness": 0.3412
+    },
+    "colors": {
+      "primary": "#273987",
+      "secondary": "#FFFFFF",
+      "tertiary": "#358354"
+    }
+  },
+  {
+    "id": "uzbekistan-home",
+    "country": "Uzbekistan",
+    "kit": "home",
+    "metrics": {
+      "hue": 0.0,
+      "saturation": 0.0,
+      "lightness": 1.0
+    },
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#273987",
+      "tertiary": "#358354"
+    }
+  }
+]
